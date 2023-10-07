@@ -1,5 +1,5 @@
 def area_perimetro(raio):
-    """Calcula a área e o perímetro de um círculo"""
+    """Calcula a área e o perímetro de um círculo."""
     area = 3.14 * (raio)**2
     perimetro = 6.28 * (raio)
 
