@@ -5,4 +5,4 @@ while contador > 1:
     num = num * contador
     contador -= 1
     
-print(f"A resposta é {num}")
+print(f"O fatorial é {num}")
