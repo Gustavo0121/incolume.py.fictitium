@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "incolume-py-fictitium"
-version = "0.2.0a0"
+version = "0.2.0a1"
 description = "Resolução dos exercícios do Curso \"Treinamento Python\"."
 authors = ["Gustavo0121 <146298926+Gustavo0121@users.noreply.github.com>"]
 license = "MIT"
